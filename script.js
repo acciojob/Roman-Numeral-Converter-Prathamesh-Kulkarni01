@@ -50,7 +50,7 @@ function convertToRoman(num) {
       }
     }
   }
-  return {ans}; // Don't forget to return the converted Roman numeral
+  return ans; // Don't forget to return the converted Roman numeral
 }
 
 // You can test your code by running the above function and printing it to the console by pressing the run button at the top. To run it with input 36, uncomment the following line
